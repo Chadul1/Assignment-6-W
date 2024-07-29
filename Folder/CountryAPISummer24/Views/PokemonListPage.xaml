@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="CountryAPISummer24.Views.PokemonListPage"
+             xmlns:model="clr-namespace:CountryAPISummer24.Models"
+             xmlns:viewmodel="clr-namespace:CountryAPISummer24.ViewModels"
+             Title="{Binding Title}"
+             x:DataType="viewmodel:PokemonListViewModel">
+    <Grid
+    Padding="10"
+    RowDefinitions="Auto,*"
+    RowSpacing="10">
+        <Frame
+        Grid.Row="0"
+        BackgroundColor="LightGray"
+        CornerRadius="6">
+            <Picker x:Name="DataPicker" Title="Pick a Type of Pokemon!" WidthRequest="200" SelectedIndexChanged="OnPickerSelectedIndexChanged">
+                <Picker.ItemsSource>
+                    <x:Array Type="{x:Type x:String}">
+                        <x:String>All</x:String>
+                        <x:String>Normal</x:String>
+                        <x:String>Fire</x:String>
+                        <x:String>Water</x:String>
+                        <x:String>Electric</x:String>
+                        <x:String>Grass</x:String>
+                        <x:String>Ice</x:String>
+                        <x:String>Fighting</x:String>
+                        <x:String>Poison</x:String>
+                        <x:String>Ground</x:String>
+                        <x:String>Flying</x:String>
+                        <x:String>Psychic</x:String>
+                        <x:String>Bug</x:String>
+                        <x:String>Rock</x:String>
+                        <x:String>Ghost</x:String>
+                        <x:String>Dragon</x:String>
+                        <x:String>Dark</x:String>
+                        <x:String>Steel</x:String>
+                        <x:String>Fairy</x:String>
+                    </x:Array>
+                </Picker.ItemsSource>
+            </Picker>
+        </Frame>
+        <RefreshView
+        Grid.Row="1"
+        Command="{Binding RefreshCommand}"
+        IsRefreshing="{Binding IsBusy}">
+            <CollectionView
+            ItemsSource="{Binding Pokemon}"
+            SelectedItem="{Binding SelectedPokemon, Mode=TwoWay}"
+            SelectionMode="Single">
+                <CollectionView.ItemTemplate>
+                    <DataTemplate x:DataType="model:Pokemon">
+                        <Frame Margin="0,5" Padding="10" BorderColor="LightGray">
+                            <Grid ColumnDefinitions="Auto,*">
+                                <Label 
+                                Grid.Column="0" 
+                                Text="{Binding Number}" 
+                                FontAttributes="Bold"
+                                VerticalOptions="Center"/>
+                                <Label 
+                                Grid.Column="1" 
+                                Text="{Binding Name}" 
+                                Margin="10,0,0,0"
+                                VerticalOptions="Center"/>
+                            </Grid>
+                        </Frame>
+                    </DataTemplate>
+                </CollectionView.ItemTemplate>
+            </CollectionView>
+        </RefreshView>
+    </Grid>
+</ContentPage>

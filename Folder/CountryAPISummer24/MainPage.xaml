@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="CountryAPISummer24.MainPage"
+             Title="MainPage">
+    <ContentPage.Content>
+        <Grid Padding="20" RowDefinitions="Auto,*,Auto">
+            <Label
+        Grid.Row="0"
+        Margin="0,0,0,20"
+        FontSize="Large"
+        HorizontalOptions="Center"
+        Text="Welcome to Country Explorer" />
+
+            <VerticalStackLayout
+        Grid.Row="1"
+        Spacing="20"
+        VerticalOptions="Center">
+                <Button
+            Command="{Binding NavigateToCountryListCommand}"
+            HeightRequest="50"
+            HorizontalOptions="Fill"
+            Text="View Country List" />
+
+                <Button
+            Command="{Binding NavigateToPokemonCommand}"
+            HeightRequest="50"
+            HorizontalOptions="Fill"
+            Text="View Pokemon List" />
+            </VerticalStackLayout>
+
+            <Label
+        Grid.Row="2"
+        FontSize="Small"
+        HorizontalOptions="Center"
+        Text="Powered by CountryAPISummer24"
+        VerticalOptions="End" />
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>

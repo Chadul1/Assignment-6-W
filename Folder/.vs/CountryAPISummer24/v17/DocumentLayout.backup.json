@@ -1,0 +1,179 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Brent\\source\\repos\\CountryAPISummer24\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{065B8CE7-C6C2-4D94-B29B-456132C9AF57}|CountryAPISummer24\\CountryAPISummer24.csproj|c:\\users\\brent\\source\\repos\\countryapisummer24\\countryapisummer24\\views\\countrylistpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{065B8CE7-C6C2-4D94-B29B-456132C9AF57}|CountryAPISummer24\\CountryAPISummer24.csproj|solutionrelative:countryapisummer24\\views\\countrylistpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{065B8CE7-C6C2-4D94-B29B-456132C9AF57}|CountryAPISummer24\\CountryAPISummer24.csproj|c:\\users\\brent\\source\\repos\\countryapisummer24\\countryapisummer24\\views\\countrylistpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{065B8CE7-C6C2-4D94-B29B-456132C9AF57}|CountryAPISummer24\\CountryAPISummer24.csproj|solutionrelative:countryapisummer24\\views\\countrylistpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{065B8CE7-C6C2-4D94-B29B-456132C9AF57}|CountryAPISummer24\\CountryAPISummer24.csproj|c:\\users\\brent\\source\\repos\\countryapisummer24\\countryapisummer24\\models\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{065B8CE7-C6C2-4D94-B29B-456132C9AF57}|CountryAPISummer24\\CountryAPISummer24.csproj|solutionrelative:countryapisummer24\\models\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{065B8CE7-C6C2-4D94-B29B-456132C9AF57}|CountryAPISummer24\\CountryAPISummer24.csproj|c:\\users\\brent\\source\\repos\\countryapisummer24\\countryapisummer24\\platforms\\android\\androidmanifest.xml||{4E01A4BC-CFCF-452C-8C08-51352512D197}",
+      "RelativeMoniker": "D:0:0:{065B8CE7-C6C2-4D94-B29B-456132C9AF57}|CountryAPISummer24\\CountryAPISummer24.csproj|solutionrelative:countryapisummer24\\platforms\\android\\androidmanifest.xml||{4E01A4BC-CFCF-452C-8C08-51352512D197}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{065B8CE7-C6C2-4D94-B29B-456132C9AF57}|CountryAPISummer24\\CountryAPISummer24.csproj|c:\\users\\brent\\source\\repos\\countryapisummer24\\countryapisummer24\\services\\countryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{065B8CE7-C6C2-4D94-B29B-456132C9AF57}|CountryAPISummer24\\CountryAPISummer24.csproj|solutionrelative:countryapisummer24\\services\\countryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{065B8CE7-C6C2-4D94-B29B-456132C9AF57}|CountryAPISummer24\\CountryAPISummer24.csproj|c:\\users\\brent\\source\\repos\\countryapisummer24\\countryapisummer24\\viewmodels\\countrylistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{065B8CE7-C6C2-4D94-B29B-456132C9AF57}|CountryAPISummer24\\CountryAPISummer24.csproj|solutionrelative:countryapisummer24\\viewmodels\\countrylistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{065B8CE7-C6C2-4D94-B29B-456132C9AF57}|CountryAPISummer24\\CountryAPISummer24.csproj|c:\\users\\brent\\source\\repos\\countryapisummer24\\countryapisummer24\\viewmodels\\mainpageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{065B8CE7-C6C2-4D94-B29B-456132C9AF57}|CountryAPISummer24\\CountryAPISummer24.csproj|solutionrelative:countryapisummer24\\viewmodels\\mainpageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{065B8CE7-C6C2-4D94-B29B-456132C9AF57}|CountryAPISummer24\\CountryAPISummer24.csproj|c:\\users\\brent\\source\\repos\\countryapisummer24\\countryapisummer24\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{065B8CE7-C6C2-4D94-B29B-456132C9AF57}|CountryAPISummer24\\CountryAPISummer24.csproj|solutionrelative:countryapisummer24\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{065B8CE7-C6C2-4D94-B29B-456132C9AF57}|CountryAPISummer24\\CountryAPISummer24.csproj|c:\\users\\brent\\source\\repos\\countryapisummer24\\countryapisummer24\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{065B8CE7-C6C2-4D94-B29B-456132C9AF57}|CountryAPISummer24\\CountryAPISummer24.csproj|solutionrelative:countryapisummer24\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AndroidManifest.xml",
+              "DocumentMoniker": "C:\\Users\\Brent\\source\\repos\\CountryAPISummer24\\CountryAPISummer24\\Platforms\\Android\\AndroidManifest.xml",
+              "RelativeDocumentMoniker": "CountryAPISummer24\\Platforms\\Android\\AndroidManifest.xml",
+              "ToolTip": "C:\\Users\\Brent\\source\\repos\\CountryAPISummer24\\CountryAPISummer24\\Platforms\\Android\\AndroidManifest.xml",
+              "RelativeToolTip": "CountryAPISummer24\\Platforms\\Android\\AndroidManifest.xml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-07-15T19:34:52.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Country.cs",
+              "DocumentMoniker": "C:\\Users\\Brent\\source\\repos\\CountryAPISummer24\\CountryAPISummer24\\Models\\Country.cs",
+              "RelativeDocumentMoniker": "CountryAPISummer24\\Models\\Country.cs",
+              "ToolTip": "C:\\Users\\Brent\\source\\repos\\CountryAPISummer24\\CountryAPISummer24\\Models\\Country.cs",
+              "RelativeToolTip": "CountryAPISummer24\\Models\\Country.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T19:23:39.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CountryListPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Brent\\source\\repos\\CountryAPISummer24\\CountryAPISummer24\\Views\\CountryListPage.xaml.cs",
+              "RelativeDocumentMoniker": "CountryAPISummer24\\Views\\CountryListPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Brent\\source\\repos\\CountryAPISummer24\\CountryAPISummer24\\Views\\CountryListPage.xaml.cs",
+              "RelativeToolTip": "CountryAPISummer24\\Views\\CountryListPage.xaml.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAcwBAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T19:10:18.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CountryListPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Brent\\source\\repos\\CountryAPISummer24\\CountryAPISummer24\\Views\\CountryListPage.xaml",
+              "RelativeDocumentMoniker": "CountryAPISummer24\\Views\\CountryListPage.xaml",
+              "ToolTip": "C:\\Users\\Brent\\source\\repos\\CountryAPISummer24\\CountryAPISummer24\\Views\\CountryListPage.xaml",
+              "RelativeToolTip": "CountryAPISummer24\\Views\\CountryListPage.xaml",
+              "ViewState": "AgIAACMAAAAAAAAAAAAkwEEAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-15T19:14:44.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainPageViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Brent\\source\\repos\\CountryAPISummer24\\CountryAPISummer24\\ViewModels\\MainPageViewModel.cs",
+              "RelativeDocumentMoniker": "CountryAPISummer24\\ViewModels\\MainPageViewModel.cs",
+              "ToolTip": "C:\\Users\\Brent\\source\\repos\\CountryAPISummer24\\CountryAPISummer24\\ViewModels\\MainPageViewModel.cs",
+              "RelativeToolTip": "CountryAPISummer24\\ViewModels\\MainPageViewModel.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T19:01:38.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CountryService.cs",
+              "DocumentMoniker": "C:\\Users\\Brent\\source\\repos\\CountryAPISummer24\\CountryAPISummer24\\Services\\CountryService.cs",
+              "RelativeDocumentMoniker": "CountryAPISummer24\\Services\\CountryService.cs",
+              "ToolTip": "C:\\Users\\Brent\\source\\repos\\CountryAPISummer24\\CountryAPISummer24\\Services\\CountryService.cs",
+              "RelativeToolTip": "CountryAPISummer24\\Services\\CountryService.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAowEMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T18:59:19.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CountryListViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Brent\\source\\repos\\CountryAPISummer24\\CountryAPISummer24\\ViewModels\\CountryListViewModel.cs",
+              "RelativeDocumentMoniker": "CountryAPISummer24\\ViewModels\\CountryListViewModel.cs",
+              "ToolTip": "C:\\Users\\Brent\\source\\repos\\CountryAPISummer24\\CountryAPISummer24\\ViewModels\\CountryListViewModel.cs",
+              "RelativeToolTip": "CountryAPISummer24\\ViewModels\\CountryListViewModel.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAjwEAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T18:41:46.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Brent\\source\\repos\\CountryAPISummer24\\CountryAPISummer24\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "CountryAPISummer24\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Brent\\source\\repos\\CountryAPISummer24\\CountryAPISummer24\\MainPage.xaml.cs",
+              "RelativeToolTip": "CountryAPISummer24\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T18:40:51.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Brent\\source\\repos\\CountryAPISummer24\\CountryAPISummer24\\MainPage.xaml",
+              "RelativeDocumentMoniker": "CountryAPISummer24\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\Brent\\source\\repos\\CountryAPISummer24\\CountryAPISummer24\\MainPage.xaml",
+              "RelativeToolTip": "CountryAPISummer24\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-15T18:40:40.218Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
